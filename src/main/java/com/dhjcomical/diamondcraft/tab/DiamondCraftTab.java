@@ -22,7 +22,7 @@ public class DiamondCraftTab extends CreativeTabs {
     @SideOnly(Side.CLIENT)
     public ItemStack createIcon() {
         if (this.icon == null) {
-            Item iconItem = RegistryHandler.ITEM_MAP.get(ModItems.RAW_RUBY);
+            Item iconItem = RegistryHandler.ITEM_MAP.get(ModItems.IRON_DIAMOND);
             if (iconItem != null) {
                 this.icon = new ItemStack(iconItem);
             } else {

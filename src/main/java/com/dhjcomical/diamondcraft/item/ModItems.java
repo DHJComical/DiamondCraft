@@ -2,7 +2,12 @@ package com.dhjcomical.diamondcraft.item;
 
 public enum ModItems {
 
-    RAW_RUBY("raw_ruby");
+    IRON_DIAMOND("iron_diamond"),
+    GOLD_DIAMOND("gold_diamond"),
+    COPPER_DIAMOND("copper_diamond"),
+    REDSTONE_DIAMOND("redstone_diamond"),
+    TIN_DIAMOND("tin_diamond"),
+    LEADED_DIAMOND("leaded_diamond");
 
 
     private final String name;

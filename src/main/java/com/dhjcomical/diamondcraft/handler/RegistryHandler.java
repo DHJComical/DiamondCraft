@@ -1,7 +1,7 @@
 package com.dhjcomical.diamondcraft.handler;
 
-import com.dhjcomcial.diamondcraft.Tags;
 import com.dhjcomical.diamondcraft.DiamondCraftMod;
+import com.dhjcomical.diamondcraft.Tags;
 import com.dhjcomical.diamondcraft.item.ModItems;
 import com.dhjcomical.diamondcraft.util.ItemBase;
 import net.minecraft.item.Item;

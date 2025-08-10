@@ -1,6 +1,5 @@
 package com.dhjcomical.diamondcraft;
 
-import com.dhjcomcial.diamondcraft.Tags;
 import com.dhjcomical.diamondcraft.proxy.IProxy;
 import com.dhjcomical.diamondcraft.tab.DiamondCraftTab;
 import net.minecraft.creativetab.CreativeTabs;

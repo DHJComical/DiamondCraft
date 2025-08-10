@@ -1,11 +1,12 @@
 {
-	"package": "",
+	"package": "com.dhjcomical.diamondcraft.mixin",
 	"required": true,
 	"refmap": "mixins.diamondcraft.refmap.json",
-	"target": "@env(DEFAULT)",
-	"minVersion": "0.8.5",
+	"minVersion": "0.8",
 	"compatibilityLevel": "JAVA_8",
-	"mixins": [],
+	"mixins": [
+		"MixinBlockOre"
+	],
 	"server": [],
 	"client": []
 }

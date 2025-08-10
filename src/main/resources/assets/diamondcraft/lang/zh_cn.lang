@@ -1,8 +1,104 @@
+# 钻石工艺 Mod - 简体中文 (zh_cn) 翻译
+
+# 创造模式物品栏
 itemGroup.diamondcraft_tab=钻石工艺
 
+# === 含金属钻石 ===
+item.poor_iron_diamond.name=稀铁钻石
 item.iron_diamond.name=含铁钻石
+item.rich_iron_diamond.name=富铁钻石
+item.poor_gold_diamond.name=稀金钻石
 item.gold_diamond.name=含金钻石
-item.leaded_diamond.name=含铅钻石
-item.tin_diamond.name=含锡钻石
-item.redstone_diamond.name=红石钻石
+item.rich_gold_diamond.name=富金钻石
+item.poor_silver_diamond.name=稀银钻石
+item.silver_diamond.name=含银钻石
+item.rich_silver_diamond.name=富银钻石
+item.poor_copper_diamond.name=稀铜钻石
 item.copper_diamond.name=含铜钻石
+item.rich_copper_diamond.name=富铜钻石
+item.poor_nickel_diamond.name=稀镍钻石
+item.nickel_diamond.name=含镍钻石
+item.rich_nickel_diamond.name=富镍钻石
+item.poor_titanium_diamond.name=稀钛钻石
+item.titanium_diamond.name=含钛钻石
+item.rich_titanium_diamond.name=富钛钻石
+item.poor_lead_diamond.name=稀铅钻石
+item.lead_diamond.name=含铅钻石
+item.rich_lead_diamond.name=富铅钻石
+item.poor_redstone_diamond.name=稀红石钻石
+item.redstone_diamond.name=含红石钻石
+item.rich_redstone_diamond.name=富红石钻石
+item.poor_zinc_diamond.name=稀锌钻石
+item.zinc_diamond.name=含锌钻石
+item.rich_zinc_diamond.name=富锌钻石
+item.poor_tin_diamond.name=稀锡钻石
+item.tin_diamond.name=含锡钻石
+item.rich_tin_diamond.name=富锡钻石
+item.poor_sulfur_diamond.name=稀硫钻石
+item.sulfur_diamond.name=含硫钻石
+item.rich_sulfur_diamond.name=富硫钻石
+
+# === 特殊钻石 ===
+item.bedrock_diamond.name=基岩钻石
+item.reinforced_bedrock_diamond.name=强化基岩钻石
+
+# === 齿轮 ===
+item.wood_gear.name=木齿轮
+item.stone_gear.name=石齿轮
+item.iron_gear.name=铁齿轮
+item.silver_gear.name=银齿轮
+item.copper_gear.name=铜齿轮
+item.gold_gear.name=金齿轮
+item.titanium_gear.name=钛齿轮
+item.bronze_gear.name=青铜齿轮
+item.reinforced_obsidian_gear.name=强化黑钥匙齿轮
+item.steel_gear.name=钢齿轮
+
+# === 转轴 ===
+item.wood_axle.name=木转轴
+item.stone_axle.name=石转轴
+item.iron_axle.name=铁转轴
+item.silver_axle.name=银转轴
+item.copper_axle.name=铜转轴
+item.gold_axle.name=金转轴
+item.titanium_axle.name=钛转轴
+item.bronze_axle.name=青铜转轴
+item.reinforced_obsidian_axle.name=强化黑曜石转轴
+item.steel_axle.name=钢转轴
+
+# === 框架 ===
+item.wood_frame.name=木框架
+item.stone_frame.name=石框架
+item.iron_frame.name=铁框架
+item.silver_frame.name=银框架
+item.copper_frame.name=铜框架
+item.gold_frame.name=金框架
+item.bronze_frame.name=青铜框架
+item.diamond_frame.name=钻石框架
+item.steel_frame.name=钢框架
+
+# === 研磨锤子 ===
+item.wood_grinding_hammer.name=木研磨锤子
+item.stone_grinding_hammer.name=石研磨锤子
+item.iron_grinding_hammer.name=铁研磨锤子
+item.diamond_grinding_hammer.name=钻石研磨锤子
+item.steel_grinding_hammer.name=钢研磨锤子
+
+# === 吹风口 ===
+item.wood_blower_nozzle.name=木吹风口
+item.stone_blower_nozzle.name=石吹风口
+item.iron_blower_nozzle.name=铁吹风口
+item.steel_blower_nozzle.name=钢吹风口
+
+# === 矿物渣 ===
+item.iron_slag.name=铁矿物渣
+item.gold_slag.name=金矿物渣
+item.silver_slag.name=银矿物渣
+item.copper_slag.name=铜矿物渣
+item.nickel_slag.name=镍矿物渣
+item.titanium_slag.name=钛矿物渣
+item.lead_slag.name=铅矿物渣
+item.redstone_slag.name=红石矿物渣
+item.zinc_slag.name=锌矿物渣
+item.tin_slag.name=锡矿物渣
+item.sulfur_slag.name=硫矿物渣

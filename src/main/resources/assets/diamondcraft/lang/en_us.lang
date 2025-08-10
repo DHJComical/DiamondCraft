@@ -1,8 +1,104 @@
+# Diamond Craft Mod - English (en_us) Translations
+
+# Creative Tab
 itemGroup.diamondcraft_tab=Diamond Craft
 
+# === Metal-Infused Diamonds ===
+item.poor_iron_diamond.name=Poor Iron Diamond
 item.iron_diamond.name=Iron Diamond
+item.rich_iron_diamond.name=Rich Iron Diamond
+item.poor_gold_diamond.name=Poor Gold Diamond
 item.gold_diamond.name=Gold Diamond
-item.leaded_diamond.name=Leaded Diamond
-item.tin_diamond.name=Tin Diamond
-item.redstone_diamond.name=Redstone Diamond
+item.rich_gold_diamond.name=Rich Gold Diamond
+item.poor_silver_diamond.name=Poor Silver Diamond
+item.silver_diamond.name=Silver Diamond
+item.rich_silver_diamond.name=Rich Silver Diamond
+item.poor_copper_diamond.name=Poor Copper Diamond
 item.copper_diamond.name=Copper Diamond
+item.rich_copper_diamond.name=Rich Copper Diamond
+item.poor_nickel_diamond.name=Poor Nickel Diamond
+item.nickel_diamond.name=Nickel Diamond
+item.rich_nickel_diamond.name=Rich Nickel Diamond
+item.poor_titanium_diamond.name=Poor Titanium Diamond
+item.titanium_diamond.name=Titanium Diamond
+item.rich_titanium_diamond.name=Rich Titanium Diamond
+item.poor_lead_diamond.name=Poor Lead Diamond
+item.lead_diamond.name=Lead Diamond
+item.rich_lead_diamond.name=Rich Lead Diamond
+item.poor_redstone_diamond.name=Poor Redstone Diamond
+item.redstone_diamond.name=Redstone Diamond
+item.rich_redstone_diamond.name=Rich Redstone Diamond
+item.poor_zinc_diamond.name=Poor Zinc Diamond
+item.zinc_diamond.name=Zinc Diamond
+item.rich_zinc_diamond.name=Rich Zinc Diamond
+item.poor_tin_diamond.name=Poor Tin Diamond
+item.tin_diamond.name=Tin Diamond
+item.rich_tin_diamond.name=Rich Tin Diamond
+item.poor_sulfur_diamond.name=Poor Sulfur Diamond
+item.sulfur_diamond.name=Sulfur Diamond
+item.rich_sulfur_diamond.name=Rich Sulfur Diamond
+
+# === Special Diamonds ===
+item.bedrock_diamond.name=Bedrock Diamond
+item.reinforced_bedrock_diamond.name=Reinforced Bedrock Diamond
+
+# === Gears ===
+item.wood_gear.name=Wood Gear
+item.stone_gear.name=Stone Gear
+item.iron_gear.name=Iron Gear
+item.silver_gear.name=Silver Gear
+item.copper_gear.name=Copper Gear
+item.gold_gear.name=Gold Gear
+item.titanium_gear.name=Titanium Gear
+item.bronze_gear.name=Bronze Gear
+item.reinforced_obsidian_gear.name=Reinforced Obsidian Gear
+item.steel_gear.name=Steel Gear
+
+# === Axles ===
+item.wood_axle.name=Wood Axle
+item.stone_axle.name=Stone Axle
+item.iron_axle.name=Iron Axle
+item.silver_axle.name=Silver Axle
+item.copper_axle.name=Copper Axle
+item.gold_axle.name=Gold Axle
+item.titanium_axle.name=Titanium Axle
+item.bronze_axle.name=Bronze Axle
+item.reinforced_obsidian_axle.name=Reinforced Obsidian Axle
+item.steel_axle.name=Steel Axle
+
+# === Frames ===
+item.wood_frame.name=Wood Frame
+item.stone_frame.name=Stone Frame
+item.iron_frame.name=Iron Frame
+item.silver_frame.name=Silver Frame
+item.copper_frame.name=Copper Frame
+item.gold_frame.name=Gold Frame
+item.bronze_frame.name=Bronze Frame
+item.diamond_frame.name=Diamond Frame
+item.steel_frame.name=Steel Frame
+
+# === Grinding Hammers ===
+item.wood_grinding_hammer.name=Wood Grinding Hammer
+item.stone_grinding_hammer.name=Stone Grinding Hammer
+item.iron_grinding_hammer.name=Iron Grinding Hammer
+item.diamond_grinding_hammer.name=Diamond Grinding Hammer
+item.steel_grinding_hammer.name=Steel Grinding Hammer
+
+# === Blower Nozzles ===
+item.wood_blower_nozzle.name=Wood Blower Nozzle
+item.stone_blower_nozzle.name=Stone Blower Nozzle
+item.iron_blower_nozzle.name=Iron Blower Nozzle
+item.steel_blower_nozzle.name=Steel Blower Nozzle
+
+# === Mineral Slag ===
+item.iron_slag.name=Iron Slag
+item.gold_slag.name=Gold Slag
+item.silver_slag.name=Silver Slag
+item.copper_slag.name=Copper Slag
+item.nickel_slag.name=Nickel Slag
+item.titanium_slag.name=Titanium Slag
+item.lead_slag.name=Lead Slag
+item.redstone_slag.name=Redstone Slag
+item.zinc_slag.name=Zinc Slag
+item.tin_slag.name=Tin Slag
+item.sulfur_slag.name=Sulfur Slag
